@@ -1,0 +1,16 @@
+# Credenciais
+.env
+
+# Docker
+db_data/
+
+# Ficheiros temporários
+*.log
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Python (se aplicável)
+__pycache__/
